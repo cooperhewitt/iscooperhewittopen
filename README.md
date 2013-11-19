@@ -1,4 +1,4 @@
 iscooperhewittopen
 ==================
 
-well is it? http://iscooperhewittopen.herokuapp.com
+well is it? http://open.cooperhewitt.org
